@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #f5f5f5;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+  background-color: #fff;
+  width: 500px;
+  padding: 25px;
+  margin: 25px auto 0;
+
+}
+.wrapper h2{
+  background-color: #fcfcfc;
+  color: #7ed320;
+  font-size: 24px;
+  padding: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+  border: 1px dotted#333;
+}
+h4{
+  padding-bottom: 5px;
+  color: #7ed320;
+}
+.input-group{
+  margin-bottom: 8px;
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  padding: 5px 0;
+}
+.pay{
+  background-color: #7ed320;
+  color: #f5f5f5;
+}
+.date{
+  background-color: #7ed320;
+  color: #f5f5f5;
+}
